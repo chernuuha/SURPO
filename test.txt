@@ -1,14 +1,7 @@
-hello world ;D
+hello world
 
 
 
 
 
-
-
-
-
-
-
-
-^^ :D :3
+Hi
